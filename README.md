@@ -8,6 +8,20 @@ This project simulates a restaurant ordering system where users can browse a men
 
 The application focuses on the practical implementation of fundamental data structures and dynamic memory management.
 
+## Screenshots
+
+* Main menu
+<img width="1472" height="746" alt="image" src="https://github.com/user-attachments/assets/73c97903-affa-4713-80fa-335da565f777" />
+
+* Product selection
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/bbf37197-0a53-427e-8eeb-0bc60b3b5c65" />
+
+* Shopping cart
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/e38cad9c-abb9-45dd-b222-8300e468d129" />
+
+* Order summary
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/d8360771-57e6-4f9d-8ec2-eb793a3bb2aa" />
+
 ## Features
 
 * Menu visualization
@@ -85,20 +99,6 @@ For Windows:
 ```bash
 restaurant.exe
 ```
-
-## Screenshots
-
-* Main menu
-<img width="1472" height="746" alt="image" src="https://github.com/user-attachments/assets/73c97903-affa-4713-80fa-335da565f777" />
-
-* Product selection
-<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/bbf37197-0a53-427e-8eeb-0bc60b3b5c65" />
-
-* Shopping cart
-<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/e38cad9c-abb9-45dd-b222-8300e468d129" />
-
-* Order summary
-<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/d8360771-57e6-4f9d-8ec2-eb793a3bb2aa" />
 
 ## Author
 
